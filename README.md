@@ -27,7 +27,7 @@ Vulnerability #2: Session Hijacking https://github.com/sarahmcd934/lab8/blob/mas
 
 Vulnerability #1: XSS https://github.com/sarahmcd934/lab8/blob/master/Green%20XSS.gif
 
-Vulnerability #2: __________________
+Vulnerability #2: User Enumeration https://github.com/sarahmcd934/lab8/blob/master/Green%20User%20Enumeration.gif
 
 
 ## Red
