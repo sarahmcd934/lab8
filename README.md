@@ -34,7 +34,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: CSRF https://github.com/sarahmcd934/lab8/blob/master/Red%20CSRF.gif
 
-Vulnerability #2: __________________
+Vulnerability #2: IDOR https://github.com/sarahmcd934/lab8/blob/master/RED%20IDOR.gif
 
 
 ## Notes
