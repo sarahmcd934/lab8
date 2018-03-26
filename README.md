@@ -20,7 +20,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection https://github.com/sarahmcd934/lab8/blob/master/Blue%20SQL%20Injection.gif
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking https://github.com/sarahmcd934/lab8/blob/master/Blue%20Session%20Hijacking.gif
 
 
 ## Green
