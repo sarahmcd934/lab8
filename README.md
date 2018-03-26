@@ -25,7 +25,7 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: XSS https://github.com/sarahmcd934/lab8/blob/master/Green%20XSS.gif
 
 Vulnerability #2: __________________
 
